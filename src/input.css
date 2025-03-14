@@ -1,6 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@config "../tailwind.config.js";
 @import url('./fonts/fonts.css');
 @import url("https://cdn.jsdelivr.net/gh/DeadCodeGames/DeadCodeGames.github.io@main/fonts/Uni%20Sans/stylesheet.css");
 

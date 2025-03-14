@@ -3,6 +3,7 @@ import Hewwo from "@/components/Hewwo/hewwo";
 import Structure from "@/components/Stwuctuwe/stwuctuwe";
 import Tutowial from "@/components/Tutowial/tutowial";
 import Footer from "@/components/Footer/footer";
+import "./output.css"
 
 function App() {
     return (
